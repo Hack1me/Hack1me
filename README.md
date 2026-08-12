@@ -1,7 +1,7 @@
-<h1 align="center">👋 Salut, je suis <a href="https://github.com/goldenbraintek">GoldenBraintek</a></h1>
+<h1 align="center">👋 Salut, je suis <a href="https://github.com/Hack1me">SAHIT HEUFEU</a></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Software+Engineer;DevOps+%26+Cloud+Enthusiast;AI+%26+Full+Stack+Developer;Creator+%40+GoldenBraintek" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Software+Engineer;DevOps+%26+Cloud+Enthusiast;AI+%26+Full+Stack+Developer;Creator+%40+LENOXDEV" alt="Typing SVG" />
 </p>
 
 ---
