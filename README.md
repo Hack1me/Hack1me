@@ -6,7 +6,24 @@
   />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Django+%7C+APIs+%7C+Automation;Building+useful+digital+products." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=650&lines=I'm+SAHIT+HEUFEU;Full-Stack+Developer;Django+%7C+APIs+%7C+React;Building+useful+digital+products." alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</p>
+
+<p align="center">
+  <i>" The perfect API is one that needs no explanation. The perfect automation is one that frees up time. "</i>
+</p>
+
+<p align="center">
+  ─── ✦ ───
 </p>
 
 <p align="center">
@@ -15,12 +32,18 @@
   <a href="#projects">Projects</a> ·
   <a href="#contact">Contact</a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hack1me&label=PROFILE%20VIEWS&color=00A884&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Hack1me?label=FOLLOWERS&style=flat-square&color=58A6FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/Hack1me?label=STARS&style=flat-square&color=00A884&labelColor=0D1117" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="80%">
 </p>
 
-## About
+---
+
+## ABOUT
 
 I'm **Sahit Heufeul**, a Full-Stack Developer focused on building
 **reliable APIs, modern web applications and automated workflows**.
@@ -107,6 +130,7 @@ ROOMRUN
 </p>
 
 ---
+
 ## Contact
 
 <p align="center">
@@ -130,7 +154,7 @@ ROOMRUN
 </p>
 
 <p align="center">
-  <sub>© 2026 SAHIT HEUFEU · Full-Stack Developer</sub>
+  <sub>© 2026 SAHIT DEVELOPPER · Full-Stack Developer</sub>
 </p>
 
 <p align="center">
