@@ -1,5 +1,10 @@
-# SAHIT HEUFEU
-
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050b14,35:071b2e,70:063b35,100:00a884&height=230&section=header&text=SAHIT%20DEVELOPPER&fontSize=43&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    width="100%"
+    alt="Sahit Developper"
+  />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Django+%7C+APIs+%7C+Automation;Building+useful+digital+products." alt="Typing SVG" />
 </p>
