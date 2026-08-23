@@ -110,6 +110,10 @@ finances through a secure REST API.
 
 ## Currently building
 
+<table>
+<tr>
+<td width="40%" align="center">
+  
 ```text
 ROOMRUN
 ├── 🏠 Rental management
@@ -119,6 +123,36 @@ ROOMRUN
 ├── 📱 Progressive Web App
 └── ⚡ Performance-first architecture
 ```
+</td>
+<td with="20%" align="center">
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="80%">
+</p>
+</td>
+<td width="40%" align="center">
+  
+```text
+ANALYSIS
+██████████ 100%
+
+MODELING
+████████░░ 80%
+
+ARCHITECTURE
+██████░░░░ 60%
+
+DEVELOPMENT
+███░░░░░░░ 30%
+
+TESTING
+░░░░░░░░░░  0%
+
+DEPLOYMENT
+░░░░░░░░░░  0%
+```
+</td>
+</tr>
+</table>
 
 ---
 
@@ -133,6 +167,17 @@ ROOMRUN
   <img src="https://streak-stats.demolab.com?user=Hack1me&hide_border=true&background=00000000&ring=7A2A18&fire=E86A30&currStreakLabel=E86A30&sideLabels=E86A30&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
 width="75%"
 alt="GitHub contribution streak"
+/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="80%">
+</p>
+<p align="center">
+
+  <img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Hack1me&bg_color=07111f&color=C9D1D9&line=7A2A18&point=E86A30&area=true&area_color=063b35&hide_border=true&custom_title=SAHIT's%20Development%20Activity"
+width="100%"
+alt="GitHub activity graph"
 />
 </p>
 
