@@ -6,7 +6,7 @@
   />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=650&lines=I'm+SAHIT+HEUFEU;Full-Stack+Developer;Django+%7C+APIs+%7C+React;Building+useful+digital+products." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=E86A30&center=true&vCenter=true&width=650&lines=I'm+SAHIT+HEUFEU;Full-Stack+Developer;Django+%7C+APIs+%7C+React;Building+useful+digital+products." alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -130,15 +130,17 @@ ROOMRUN
 </p>
 
 <p align="center">
-  
-<img src="https://streak-stats.demolab.com?user=Hack1me&hide_border=true&background=00000000&ring=00A884&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  <img src="https://streak-stats.demolab.com?user=Hack1me&hide_border=true&background=00000000&ring=7A2A18&fire=E86A30&currStreakLabel=E86A30&sideLabels=E86A30&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
 width="75%"
 alt="GitHub contribution streak"
 />
-
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="80%">
+</p>
 
 ## Contact
 
