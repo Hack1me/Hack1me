@@ -125,8 +125,17 @@ ROOMRUN
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hack1me&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2D9CDB&icon_color=2D9CDB&text_color=C9D1D9&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hack1me&layout=compact&hide_border=true&bg_color=0D1117&title_color=2D9CDB&text_color=C9D1D9" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?user=Hack1me&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2D9CDB&icon_color=2D9CDB&text_color=C9D1D9&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Hack1me&layout=compact&hide_border=true&bg_color=0D1117&title_color=2D9CDB&text_color=C9D1D9" width="40%" />
+</p>
+
+<p align="center">
+  
+<img src="https://streak-stats.demolab.com?user=Hack1me&hide_border=true&background=00000000&ring=00A884&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+width="75%"
+alt="GitHub contribution streak"
+/>
+
 </p>
 
 ---
