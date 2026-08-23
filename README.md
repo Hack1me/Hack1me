@@ -75,6 +75,44 @@ to make renting simpler, faster and more accessible.
 
 ## Projects
 
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>ROOMRUN</h3>
+      <p><em>PWA Location</em></p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" /><br>
+      <strong>Clé :</strong> Envoi de mails automatisé
+      <br>
+      <a href="#currently building"><img src="https://img.shields.io/badge/Statut-En_cours-2D9CDB?style=flat-square" /></a>
+    </td>
+    <td align="center" width="33%">
+      <h3>WORKIU</h3>
+      <p><em>Freelance Africa-First</em></p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <br><br>
+      <strong>Clé :</strong> Paiements locaux (Mobile Money)
+      <br>
+      <img src="https://img.shields.io/badge/Statut-Conception-FFA500?style=flat-square" />
+    </td>
+    <td align="center" width="33%">
+      <h3>CERBEN</h3>
+      <p><em>Gestion pour couples</em></p>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br>
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <br><br>
+      <strong>Clé :</strong> Gestion budgétaire partagée
+      <br>
+      <img src="https://img.shields.io/badge/Statut-R&D-FF6B6B?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
 ### 🏠 ROOMRUN
 
 **Property rental platform**
