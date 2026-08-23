@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0806,35:2E0F0A,70:7A2A18,100:E86A30&height=230&section=header&text=SAHIT%20DEVELOPPER&fontSize=43&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0806,35:2E0F0A,70:7A2A18,100:E86A30&height=230&section=header&text=SAHIT%20DEVELOPER&fontSize=43&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     width="100%"
     alt="Sahit Developper"
   />
