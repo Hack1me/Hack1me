@@ -57,7 +57,7 @@ to make renting simpler, faster and more accessible.
 
 ---
 
-## Stack
+## STACK
 
 <p align="center">
 
@@ -73,7 +73,7 @@ to make renting simpler, faster and more accessible.
 
 ---
 
-## Projects
+## PROJECTS
 
 <table align="center">
   <tr>
@@ -86,7 +86,7 @@ to make renting simpler, faster and more accessible.
       <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" /><br>
       <strong>Clé :</strong> Envoi de mails automatisé
       <br>
-      <a href="#currently building"><img src="https://img.shields.io/badge/Statut-En_cours-2D9CDB?style=flat-square" /></a>
+      <a href="#currentlybuilding"><img src="https://img.shields.io/badge/Statut-En_cours-2D9CDB?style=flat-square" /></a>
     </td>
     <td align="center" width="33%">
       <h3>WORKIU</h3>
@@ -146,7 +146,7 @@ finances through a secure REST API.
 
 ---
 
-## Currently building
+## CurrentlyBuilding
 
 <table>
 <tr>
