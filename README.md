@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050b14,35:071b2e,70:063b35,100:00a884&height=230&section=header&text=SAHIT%20DEVELOPPER&fontSize=43&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0806,35:2E0F0A,70:7A2A18,100:E86A30&height=230&section=header&text=SAHIT%20DEVELOPPER&fontSize=43&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     width="100%"
     alt="Sahit Developper"
   />
@@ -134,5 +134,5 @@ ROOMRUN
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2D9CDB&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0806,35:2E0F0A,70:7A2A18,100:E86A30&height=100&section=footer" width="100%" />
 </p>
