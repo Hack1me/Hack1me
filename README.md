@@ -75,7 +75,7 @@ to make renting simpler, faster and more accessible.
 
 ## PROJECTS
 
-<table align="center">
+<table align="center" style="overflow-x: auto;">
   <tr>
     <td align="center" width="33%">
       <h3>ROOMRUN</h3>
@@ -148,7 +148,7 @@ finances through a secure REST API.
 
 ## CurrentlyBuilding
 
-<table>
+<table style="overflow-x: auto;">
 <tr>
 <td width="40%" align="center" valign="top>
   
