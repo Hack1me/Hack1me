@@ -150,7 +150,7 @@ finances through a secure REST API.
 
 <table>
 <tr>
-<td width="40%" align="center">
+<td width="40%" align="center" valign="top>
   
 ```text
 ROOMRUN
