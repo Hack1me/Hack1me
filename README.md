@@ -113,44 +113,11 @@ to make renting simpler, faster and more accessible.
   </tr>
 </table>
 
-### 🏠 ROOMRUN
-
-**Property rental platform**
-
-A modern PWA connecting landlords, tenants and property managers through
-a simple and accessible rental experience.
-
-**Django · PostgreSQL · Tailwind · PWA**
-
----
-
-### 🌍 WORKIU
-
-**Africa-first freelance platform**
-
-A marketplace designed around the realities of African freelancers,
-including local payments, connectivity constraints and trust.
-
-**Django · DRF · PostgreSQL · Tailwind**
-
----
-
-### 💑 CERBEN
-
-**Shared life & finance application**
-
-A mobile platform helping couples manage tasks, projects and shared
-finances through a secure REST API.
-
-**React Native · Django REST · PostgreSQL**
-
----
-
 ## CurrentlyBuilding
 
 <table style="overflow-x: auto;">
 <tr>
-<td width="40%" align="center" valign="top>
+<td width="45%" align="center" valign="top>
   
 ```text
 ROOMRUN
@@ -162,28 +129,28 @@ ROOMRUN
 └── ⚡ Performance-first architecture
 ```
 </td>
-<td with="20%" align="center">
+<td with="5%" align="center">
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="80%">
 </p>
 </td>
-<td width="40%" align="center">
+<td width="50%" align="center">
   
 ```text
 ANALYSIS
 ██████████ 100%
 
 MODELING
-████████░░ 80%
+█████████░ 90%
 
 ARCHITECTURE
-██████░░░░ 60%
+███████░░░ 70%
 
 DEVELOPMENT
 ███░░░░░░░ 30%
 
 TESTING
-░░░░░░░░░░  0%
+█░░░░░░░░░  10%
 
 DEPLOYMENT
 ░░░░░░░░░░  0%
