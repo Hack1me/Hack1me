@@ -44,10 +44,6 @@
 ---
 
 ## ABOUT
-
-I'm **Sahit Heufeul**, a Full-Stack Developer focused on building
-**reliable APIs, modern web applications and automated workflows**.
-
 I care about three things:
 
 > **Clean architecture · Performance · Great user experience**
@@ -84,7 +80,7 @@ to make renting simpler, faster and more accessible.
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" /><br>
-      <strong>Clé :</strong> Envoi de mails automatisé
+      <strong>Key :</strong> Automate Reminders by sending Mails
       <br>
       <a href="#currentlybuilding"><img src="https://img.shields.io/badge/Statut-En_cours-2D9CDB?style=flat-square" /></a>
     </td>
@@ -95,7 +91,7 @@ to make renting simpler, faster and more accessible.
       <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <br><br>
-      <strong>Clé :</strong> Paiements locaux (Mobile Money)
+      <strong>Key :</strong> Locals Payments (Mobile Money)
       <br>
       <img src="https://img.shields.io/badge/Statut-Conception-FFA500?style=flat-square" />
     </td>
@@ -106,7 +102,7 @@ to make renting simpler, faster and more accessible.
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <br><br>
-      <strong>Clé :</strong> Gestion budgétaire partagée
+      <strong>Key :</strong> Gestion budgétaire partagée
       <br>
       <img src="https://img.shields.io/badge/Statut-R&D-FF6B6B?style=flat-square" />
     </td>
