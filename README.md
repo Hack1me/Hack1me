@@ -82,7 +82,7 @@ to make renting simpler, faster and more accessible.
       <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" /><br>
       <strong>Key :</strong> Automate Reminders by sending Mails
       <br>
-      <a href="#currentlybuilding"><img src="https://img.shields.io/badge/Statut-En_cours-2D9CDB?style=flat-square" /></a>
+      <a href="#currentlybuilding"><img src="https://img.shields.io/badge/Statut-Building-2D9CDB?style=flat-square" /></a>
     </td>
     <td align="center" width="33%">
       <h3>WORKIU</h3>
@@ -93,7 +93,7 @@ to make renting simpler, faster and more accessible.
       <br><br>
       <strong>Key :</strong> Locals Payments (Mobile Money)
       <br>
-      <img src="https://img.shields.io/badge/Statut-Conception-FFA500?style=flat-square" />
+      <img src="https://img.shields.io/badge/Statut-Modeling-FFA500?style=flat-square" />
     </td>
     <td align="center" width="33%">
       <h3>CERBEN</h3>
